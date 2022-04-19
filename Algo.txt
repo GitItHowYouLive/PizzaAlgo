@@ -1,0 +1,3 @@
+Step 0: Assess hunger levels to determine necessity of pizza.
+Step 1: Assess energy levels to determine whether pizza will be made or ordered. If no, skip to step 2b.
+Step 2a:
